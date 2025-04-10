@@ -10,18 +10,21 @@ A proposta do **RETAKE** é reimaginar o jogo com foco técnico e criativo, expl
 
 <h3>📹 Trailer / Gameplay<br></br></h3>
 
-<!-- Trailer inserido diretamente no repositório -->
-<p align="center">
-  <video width="600" controls>
-    <source src="capturas/trailer.mp4" type="video/mp4">
-    Seu navegador não suporta o elemento de vídeo.
-  </video>
-</p>
+<h3 align="center"><B>TRAILER DO PROJETO:</B><br></br></h3>
 
-<!-- Thumbnail clicável da gameplay no Google Drive -->
 <p align="center">
   <a href="https://drive.google.com/file/d/1vYAnmOYK0P5ijTpx2R1ot3ImZkA5uppv/view?usp=drive_link" target="_blank">
-    <img src="Capturas/thumbnail.jpg" alt="Clique para assistir à gameplay" width="600px"/>
+    <img src="Capturas/thumbnail.jpg" alt="Clique para assistir ao trailer" width="600px"/>
+  </a>
+</p>
+
+##
+
+<h3 align="center"><B>GAMEPLAY DO PROJETO:</B><br></br></h3>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1BHzMUoDInqMbZhrjKCX1nCHKamM9b41v/view?usp=drive_link" target="_blank">
+    <img src="Capturas/thumbnail.jpg" alt="Clique para assistir ao trailer" width="600px"/>
   </a>
 </p>
 
