@@ -12,7 +12,7 @@ A proposta do **RETAKE** é reimaginar o jogo com foco técnico e criativo, expl
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1vYAnmOYK0P5ijTpx2R1ot3ImZkA5uppv/view?usp=drive_link">
-    <img src="Capturas/thumbnail.png" alt="Clique para assistir à gameplay" width="600px"/>
+    <img src="Capturas/Thumbnail.png" alt="Clique para assistir à gameplay" width="600px"/>
   </a>
 </p>
 
