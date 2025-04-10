@@ -14,7 +14,7 @@ A proposta do **RETAKE** é reimaginar o jogo com foco técnico e criativo, expl
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1vYAnmOYK0P5ijTpx2R1ot3ImZkA5uppv/view?usp=drive_link" target="_blank">
-    <img src="Capturas/thumbnail.jpg" alt="Clique para assistir ao trailer" width="600px"/>
+    <img src="Capturas/thumbnail.gif" alt="Clique para assistir ao trailer" width="600px"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@ A proposta do **RETAKE** é reimaginar o jogo com foco técnico e criativo, expl
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1BHzMUoDInqMbZhrjKCX1nCHKamM9b41v/view?usp=drive_link" target="_blank">
-    <img src="Capturas/thumbnail.jpg" alt="Clique para assistir ao trailer" width="600px"/>
+    <img src="Capturas/thumbnail.gif" alt="Clique para assistir ao trailer" width="600px"/>
   </a>
 </p>
 
